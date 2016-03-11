@@ -1,7 +1,7 @@
 PremeFeed Desktop Client
 =====
 
-<img align="right" width="20%" style="float:right;padding:20px;" src="http://i.imgur.com/d2w9Wam.png?1">
+<img align="right" width="" style="float:right;padding:20px;" src="http://i.imgur.com/d2w9Wam.png?1">
 
 Currently under development, huge changes coming soon.
 
