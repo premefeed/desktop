@@ -1,0 +1,27 @@
+{
+  "name": "premefeed-desktop",
+  "version": "1.0.0",
+  "description": "PremeFeed Desktop Client ",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/premefeed/desktop.git"
+  },
+  "author": "Peter Soboyejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/premefeed/desktop/issues"
+  },
+  "homepage": "https://github.com/premefeed/desktop#readme",
+  "devDependencies": {
+    "electron-packager": "^5.2.1",
+    "electron-prebuilt": "^0.36.10"
+  },
+  "dependencies": {
+    "menu": "^0.2.5",
+    "path": "^0.12.7"
+  }
+}

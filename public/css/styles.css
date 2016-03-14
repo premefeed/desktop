@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "FiraSans";
+    src: url( "../assets/fonts/firasans/FiraSans-Book.woff" ) format( "woff" );
+}
+@font-face {
+    font-family: "FiraMono";
+    src: url( "../assets/fonts/firamono/FiraMono-Regular.woff" ) format( "woff" );
+}
+
+html {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: white;
+    box-sizing: border-box;
+    font: normal 62.5% FiraSans, sans-serif;
+    color: #444;
+    -webkit-user-select: none;
+    -webkit-font-smoothing: subpixel-antialiased;
+    text-rendering: optimizelegibility;
+    overflow: hidden;
+}
